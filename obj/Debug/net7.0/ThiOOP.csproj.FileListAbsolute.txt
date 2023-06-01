@@ -1,0 +1,15 @@
+D:\HCMUS\DeThiOOP\ThiOOP\bin\Debug\net7.0\ThiOOP.exe
+D:\HCMUS\DeThiOOP\ThiOOP\bin\Debug\net7.0\ThiOOP.deps.json
+D:\HCMUS\DeThiOOP\ThiOOP\bin\Debug\net7.0\ThiOOP.runtimeconfig.json
+D:\HCMUS\DeThiOOP\ThiOOP\bin\Debug\net7.0\ThiOOP.dll
+D:\HCMUS\DeThiOOP\ThiOOP\bin\Debug\net7.0\ThiOOP.pdb
+D:\HCMUS\DeThiOOP\ThiOOP\obj\Debug\net7.0\ThiOOP.csproj.AssemblyReference.cache
+D:\HCMUS\DeThiOOP\ThiOOP\obj\Debug\net7.0\ThiOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUS\DeThiOOP\ThiOOP\obj\Debug\net7.0\ThiOOP.AssemblyInfoInputs.cache
+D:\HCMUS\DeThiOOP\ThiOOP\obj\Debug\net7.0\ThiOOP.AssemblyInfo.cs
+D:\HCMUS\DeThiOOP\ThiOOP\obj\Debug\net7.0\ThiOOP.csproj.CoreCompileInputs.cache
+D:\HCMUS\DeThiOOP\ThiOOP\obj\Debug\net7.0\ThiOOP.dll
+D:\HCMUS\DeThiOOP\ThiOOP\obj\Debug\net7.0\refint\ThiOOP.dll
+D:\HCMUS\DeThiOOP\ThiOOP\obj\Debug\net7.0\ThiOOP.pdb
+D:\HCMUS\DeThiOOP\ThiOOP\obj\Debug\net7.0\ThiOOP.genruntimeconfig.cache
+D:\HCMUS\DeThiOOP\ThiOOP\obj\Debug\net7.0\ref\ThiOOP.dll
